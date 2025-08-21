@@ -1,0 +1,168 @@
+{
+	"title": {
+		"media": {
+			"url": "https://cdn.masto.host/sigmoidsocial/media_attachments/files/112/795/747/763/370/245/original/e761753b53dd190c.png",
+			"caption": "A brief picture of the history of machine learning",
+			"credit": "https://sigmoid.social/@lysander07/112795773185241798</a>"
+		},
+		"text": {
+			"headline": "History of Machine learning <br/> 1950-2020",
+			"text": "<p>Machine learning has evolved significantly since its inception in the 1940s, with early concepts rooted in neural networks and mathematical models. Key milestones include Arthur Samuel's checkers program in the 1950s and advancements in deep learning, shaping the field into what it is today.</p>"
+		}
+	},
+	"events": [
+		{
+			"media": {
+				"url": "https://youtu.be/t0sSFFs5jAw?si=eL7cMPqCOg94IBwm",
+				"caption": "Arthur Samuel with his checker created with machine learning.",
+				"credit": "Max Nadeau</a>"
+			},
+			"start_date": {
+				"month": "1",
+				"day": "11",
+				"year": "1956"
+			},
+			"text": {
+				"headline": "Arthur Samuel with his checkers ",
+				"text": "<p>He initiated alpha-beta pruning, a design that measures each side’s chances to win. This computer program chooses its next move using a minimax algorithm, which calculates the best possible move for a player in a game by minimizing the opponent’s maximum gain and maximizing the player’s minimum gain.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "https://youtu.be/lY1SELMvoVs?si=pe0waVVguMH5vKfB",
+				"caption": "Checkers - (1956) - First artificial intelligence game!",
+				"credit": "<a href=\"https://youtu.be/T_IsYnRGNls?si=PhbhCD6lgK81MCep</a>"
+			},
+			"start_date": {
+				"year": "1950"
+			},
+			"text": {
+				"headline": "A Brief History Of Machine Learning",
+				"text": "The concept of machines thinking goes back centuries, but the modern history of machine learning began in the mid-20th century. Machine learning (ML) is a subfield of artificial intelligence (AI) that focuses on building systems that can learn from and make decisions or predictions based on data, without being explicitly programmed. "
+			}
+		},
+		{
+			"media": {
+				"url": "https://youtu.be/Suevq-kZdIw?si=LXLsZqFbOgWXYbbG",
+				"caption": "The Man who forever changed Artificial Intelligence",
+				"credit": "Sebastian Schuchmann"
+			},
+			"start_date": {
+				"year": "1957"
+			},
+			"text": {
+				"headline": "1957 – The Perceptron",
+				"text": "The psychologist Frank Rosenblatt attempted to build “the first machine capable of producing an original idea” and subsequently designed the Perceptron, the first neural network ever produced."
+			}
+		},
+		{
+			"media": {
+				"url": "https://youtu.be/-Xl2c91pWGc?si=RT-_47ZbnTFe0q2Q, https://www.automate.org/robotics/engelberger/joseph-engelberger-unimate",
+				"caption": "First Industrial Robot Ever Installed on an Assembly Line | Innovation Nation",
+				"credit": "The Henry Ford"
+			},
+			"start_date": {
+				"year": "1961"
+			},
+			"text": {
+				"headline": "Unimate:First industrial robot",
+				"text": "The introduction of Unimate by George Devol and later commercialized by the company Unimation in 1961 was a pivotal moment in the history of robotics and artificial intelligence. It not only showcased the potential of industrial robots but also highlighted the importance of AI in enhancing automation. This innovation laid the foundation for the rapid advancements in robotics that continue to shape industries and society today."
+			}
+		},
+		{
+			"media": {
+				"url": "https://youtu.be/dcS6Ol5xXqY?si=XlNNjfrL6XwLqXkD", 
+				"caption": "Stanford cart which pivots the evolution of self-driving cars.",
+				"credit": "Yapayzeka.academy"
+			},
+			"start_date": {
+				"year": "1979"
+			},
+			"text": {
+				"headline": "Stanford Cart: The mobile robot with AI.",
+				"text": "The Stanford Cart was a long-term research project undertaken at Stanford University between 1960 and 1980. In 1979, it successfully crossed a room on its own while navigating around a chair placed as an obstacle. Hans Moravec rebuilt the Stanford Cart in 1977, equipping it with stereo vision. A television camera, mounted on a rail on the top of the cart, took pictures from several different angles and relayed them to a computer."
+			}
+		},
+		{
+			"media": {
+				"url": "https://youtu.be/KF6sLCeBj0s?si=hsJfR26aQzaSTyMC",
+				"caption": "Deep Blue vs Kasparov: How a computer beat best chess player in the world - BBC News",
+				"credit": "BBC News"
+			},
+			"start_date": {
+				"year": "1997"
+			},
+			"text": {
+				"headline": "IBM's Deep Blue ",
+				"text": "In 1997, IBM’s Deep Blue did something that no machine had done before. In May of that year, it became the first computer system to defeat a reigning world chess champion in a match under standard tournament controls. Big Blue’s victory in the six-game marathon against Garry Kasparov marked an inflection point in computing, heralding a future in which supercomputers and artificial intelligence could simulate human thinking. Deep Blue derived its chess prowess through brute force computing power. It used 32 processors to perform a set of coordinated, high-speed computations in parallel. Deep Blue was able to evaluate 200 million chess positions per second, achieving a processing speed of 11.38 billion floating-point operations per second, or flops. "
+			}
+		},
+
+		
+		{
+			"media": {
+				"url": "https://youtu.be/QH6QqjIwv68?si=tEIIIxt-PdqjTtM4",
+				"caption": "Geoffrey Hinton: 'The Godfather of AI' | 60 Minutes Archive",
+				"credit": "60 Minutes"
+			},
+			"start_date": {
+				"year": "2006"
+			},
+			"text": {
+				"headline": "Geoffrey Hinton coins the term 'Machine Learning'",
+				"text": "Geoffrey Hinton introduced the concept of 'deep learning' to describe a class of algorithms using many-layered neural networks that could learn to recognize patterns in data. His work revitalized neural network research with the development of deep belief networks, enabling machines to better understand images and speech. This breakthrough laid the foundation for the modern AI revolution, powering advances in computer vision, natural language processing, and more."
+			}
+		},
+		{
+			"media": {
+				"url": "https://youtu.be/fIRrZvlq7BQ?si=XgEcXbQgw6VLTzf7",
+				"caption": "Facebook's DeepFace Detects Faces with 97% Accuracy",
+				"credit": "b/60"
+			},
+			"start_date": {
+				"year": "2014"
+			},
+			"text": {
+				"headline": "Facebook’s DeepFace achieves near-human accuracy in facial recognition using deep neural networks.",
+				"text": "In 2014, Facebook introduced DeepFace, a deep learning-based facial recognition system that achieved 97.25% accuracy in matching faces, nearly on par with human performance at 97.53%. DeepFace used a nine-layer neural network with over 120 million parameters and employed a 3D model to align faces, allowing it to recognize faces from different angles and lighting conditions. This breakthrough significantly improved facial verification capabilities and advanced the potential for automated photo tagging and identity verification on social networks."
+			}
+		},
+		{
+			"media": {
+				"url": "https://youtu.be/MQnJZuBGmSQ?si=Z8_RTCjlYUbdi1Zt",
+				"caption": "How GPT3 Works - Easily Explained with Animations",
+				"credit": "Jay Alammar"
+			},
+			"start_date": {
+				"year": "2020"
+			},
+			"text": {
+				"headline": "OpenAI released GPT-3",
+				"text": "In 2020, a large foundation language model with 175 billion parameters, capable of generating coherent and contextually relevant text across diverse topics. GPT-3 demonstrated impressive few-shot learning, meaning it could perform new language tasks with very little task-specific training data. This breakthrough showcased the power of scaling up deep learning models to create versatile AI systems with strong natural language understanding and generation abilities."
+			}
+		},
+		
+		
+		
+		
+		
+		
+		
+		{
+			"media": {
+				"url": "https://media.istockphoto.com/id/1404030356/vector/the-end-cinema-screen.jpg?s=612x612&w=0&k=20&c=lb6n6RfNcpDkUm46pM5hE3XLrIBBZu4VhQpktem4kcQ=",
+				"caption": "'The End' photo",
+				"credit": "Istockphoto"
+			},
+			"start_date": {
+				"month": "",
+				"day": "",
+				"year": "2025"
+			},
+			"text": {
+				"headline": "References",
+				"text": "<p>https://www.techtarget.com/whatis/feature/History-and-evolution-of-machine-learning-A-timeline, https://www.datategy.net/2023/11/09/the-ai-origins-arthur-lee-samuel/, https://quantumzeitgeist.com/frank-rosenblatt-the-creator-of-the-perceptron-in-1957/, https://www.britannica.com/technology/robot-technology#ref849962, https://www.computerhistory.org/revolution/artificial-intelligence-robotics/13/293/1277, https://www.ri.cmu.edu/publications/the-stanford-cart-and-the-cmu-rover/, https://www.ibm.com/history/deep-blue , https://www.britannica.com/biography/Geoffrey-Hinton, https://facit.ai/insights/evolution-of-facial-recognition-technology, https://www.einfochips.com/blog/openai-gpt-3-the-most-powerful-language-model-an-overview/ </p>"
+			}
+		}
+	]
+}
